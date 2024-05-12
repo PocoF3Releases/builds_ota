@@ -1,4 +1,16 @@
 ========================
+Alioth/in Build v1.0.1
+========================
+Kernel: Update to May Security Patch
+System:
+* Evolver: Screen off animations 
+* Evolver: Option to Display Data Disabled Indicator Icon
+* Evolver: Allow using 4G icon instead LTE
+* Settings: Allow disabling color inversion support
+* PixelPropsUtils: Update fingerprints to May 2024 release
+* SystemUI: Cancel keyguard unlock animation when expanding panel
+* SettingsLib: Update LTE+ & 4G+ & 5G+ icons to Silk design
+========================
 Alioth/in Build v1.0.0 
 ========================
 - Added support of OTA Updates
