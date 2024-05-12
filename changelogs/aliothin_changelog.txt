@@ -1,0 +1,17 @@
+========================
+Alioth/in Build v1.0.0 
+========================
+- Added support of OTA Updates
+- Made output file name simplification with Minutes and Hours support
+- Compiled out with latest ROM changes
+========================
+Evolution-XYZ 9.0 Alioth/in Initial Development Builds
+========================
+Allowed:
+* Report device-side bugs, test features, request device-side features
+
+Not allowed:
+* Post Development builds as Official/Unofficial releases
+* Request to compile another roms
+* Request to make ROM-side features. The relevant core team completes the following stuff; I'm not doing that (*Usually).
+========================
