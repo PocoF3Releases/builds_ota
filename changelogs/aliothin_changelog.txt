@@ -1,12 +1,13 @@
 ========================
+Alioth/in Build v1.0.3
+========================
+- Rebuild with Latest ROM changes
+- Fix minimum/maximum refresh rate settings (Now they are available)
+========================
 Alioth/in Build v1.0.2
 ========================
 - Resync & rebuild with latest ROM sources
 - Update Hotword from HyperOS
-========================
-Alioth/in Build v1.0.2
-========================
-- Resync & rebuild with latest ROM sources
 ========================
 Alioth/in Build v1.0.1
 ========================
