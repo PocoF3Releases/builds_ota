@@ -1,4 +1,13 @@
 ========================
+Alioth/in Build v1.0.2
+========================
+- Resync & rebuild with latest ROM sources
+- Update Hotword from HyperOS
+========================
+Alioth/in Build v1.0.2
+========================
+- Resync & rebuild with latest ROM sources
+========================
 Alioth/in Build v1.0.1
 ========================
 Kernel: Update to May Security Patch
