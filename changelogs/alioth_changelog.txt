@@ -1,9 +1,11 @@
 ========================
-Alioth/in Build v1.0.5
+Alioth/in Build v1.0.6
 ========================
 - Rebuild with Latest ROM changes
+- CTS might pass now
+- Includes part of Crowdin translations (not full)
 ========================
-Alioth/in Build v1.0.4
+Alioth/in Build v1.0.4-1.0.5
 ========================
 - Clean rebuild with Latest ROM changes
 ========================
