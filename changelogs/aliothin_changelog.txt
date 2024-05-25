@@ -1,8 +1,14 @@
 ========================
+Alioth/in Build v1.0.7
+========================
+- Rebuild with the latest ROM Changes
+- Move to builds signed with Private keys (The entire system is now signed under my credentials)
+- CTS Passing after the following update
+- Clean installation Mandatory
+========================
 Alioth/in Build v1.0.6
 ========================
 - Rebuild with Latest ROM changes
-- CTS might pass now
 - Includes part of Crowdin translations (not full)
 ========================
 Alioth/in Build v1.0.4-1.0.5
