@@ -1,4 +1,10 @@
 ========================
+Alioth/in Build v1.0.8
+========================
+- Rebuild with latest ROM changes
+- Update signing environment to latest Evolution-XYZ with vendor/evolution-priv/keys
+- Includes latest ROM changes with Google Sans, OneUI Sans and other changes
+========================
 Alioth/in Build v1.0.7
 ========================
 - Rebuild with the latest ROM Changes
