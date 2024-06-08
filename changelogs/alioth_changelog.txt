@@ -1,4 +1,11 @@
 ========================
+Alioth/in Build v1.0.9
+========================
+- Rebuild with the latest ROM changes
+- Update signing keys via the latest method, including signing APEX
+- Enable double tap to ambient
+- Update kernel to ASB-2024-05-05_4.19-stable
+========================
 Alioth/in Build v1.0.8
 ========================
 - Rebuild with latest ROM changes
